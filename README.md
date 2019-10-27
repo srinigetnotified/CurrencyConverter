@@ -18,6 +18,6 @@ Currency Converter Program
 
 Following Things can be improved in the program
 -----------------------------------------------
-1. Instead of loading currency rates as a HashMap in Utility class, we can make use of application.properties to load the currency rates  into HashMap on application loading.
+1. Instead of loading currency rates as a HashMap in Utility class, we can make use of properties file to load the currency rates into HashMap on application loading.
 
 2. We can define propper loggers in the classes, methods.
